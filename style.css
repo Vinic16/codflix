@@ -1,0 +1,21 @@
+body{
+    background: red;
+    color:black;
+    margin:0px;
+    font-family: "Oswald", sans-serif;
+}
+header{
+    border-bottom:solid 4px black;
+    padding: 20px;
+    font-size:60px;
+}
+section{
+    background: rpg(126,151,167);
+    display:flex;
+    justify-content: center;
+    padding-top: 50px;
+    padding-bottom: 80px;
+}
+.titulo-video{
+    margin-right: 5%;
+} 
